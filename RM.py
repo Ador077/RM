@@ -24,7 +24,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/ft.alvi.18')
+        os.system('xdg-open https://facebook.com/ft.alvi.18')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -46,24 +46,24 @@ def FD():
 def o():
     os.system('clear')
     jalan(logo)
-    jalan('\tðŸ”¥ðŸ”¥RANDOM NUMBER CRACKðŸ”¥ðŸ”¥')
+    jalan('\RANDOM FIRE')
     print('')
     jalan('\x1b[1;32m [1]\x1b[1;33m RANDOM CRACK ')
     jalan('\x1b[1;32m [2] \x1b[1;32mCONTACT ME ON FACEBOOK')
     jalan(' \x1b[1;32m[3] \x1b[1;32mSUBSCRIBE MY CHANNEL')
-    jalan(' \x1b[1;32m[4] \x1b[1;32mJOIN FB PAGE')
+    jalan(' \x1b[1;32m[4] \x1b[1;32mFOLLOW FB PAGE')
     jalan(' \x1b[1;32m[00] \x1b[1;31mEXIT')
     opt = input('\n   \x1b[1;32m Choose option >>> ')
     if opt == '1':
         i()
     if None == '2':
-        os.system('xdg-open https://youtube.com/@Learnwithshuvo928')
+        os.system('xdg-open https://facebook.com/ft.alvi.18')
         return None
     if None == '3':
         os.system('xdg-open https://youtube.com/@Learnwithshuvo928')
         return None
     if None == '4':
-        os.system('xdg-open https://youtube.com/@Learnwithshuvo928')
+        os.system('xdg-open https://facebook.com/𝙈𝙍-𝘼𝘿𝙊𝙍-107968471946247')
         return None
     if None == '0':
         os.system('exit')
@@ -167,18 +167,13 @@ today = date.today()
 logo =                                          ("""   
 
 \033[1;34m         
-  .----------------.  .----------------.  .----------------.  .----------------. 
-| .--------------. || .--------------. || .--------------. || .--------------. |
-| |  _________   | || |     _____    | || |  _______     | || |  _________   | |
-| | |_   ___  |  | || |    |_   _|   | || | |_   __ \    | || | |_   ___  |  | |
-| |   | |_  \_|  | || |      | |     | || |   | |__) |   | || |   | |_  \_|  | |
-| |   |  _|      | || |      | |     | || |   |  __ /    | || |   |  _|  _   | |
-| |  _| |_       | || |     _| |_    | || |  _| |  \ \_  | || |  _| |___/ |  | |
-| | |_____|      | || |    |_____|   | || | |____| |___| | || | |_________|  | |
-| |              | || |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------'  '----------------'  
-                                                                                        \033[1;32m╔════════════════════════════════════════╗
+     ______________  ______
+   / ____/  _/ __ \/ ____/
+  / /_   / // /_/ / __/   
+ / __/ _/ // _, _/ /___   
+/_/   /___/_/ |_/_____/   
+                            
+\033[1;32m╔════════════════════════════════════════╗
 \033[1;32m║\033[1;32m[•] Author    \033[1;32m : ACTION-FIRE            \033[1;32m║      
 \033[1;32m║\033[1;32m[•] Facebook   \033[1;32m: Ft Alvi                ║ 
 \033[1;32m║\033[1;32m[•] Github    \033[1;32m : github.com/ACTION-FIRE ║
